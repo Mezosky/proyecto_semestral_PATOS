@@ -1,4 +1,4 @@
-# Lab 9: Cassandra
+# Proyecto Semestral
 
 <p align="center">
 <img src="https://steamuserimages-a.akamaihd.net/ugc/31859108324626554/B406C9A1DA13840BF539A901DCABD443F1F5219E/" alt="cassandra" height="300">

@@ -6,11 +6,11 @@
 
 ## Indice
 
-- [Objetivos](https://github.com/Mezosky/Labs_PATOS/tree/main/Lab9#Objetivos)
-- [Entregables](https://github.com/Mezosky/Labs_PATOS/tree/main/Lab9#entregables)
-- [Códigos](https://github.com/Mezosky/Labs_PATOS/tree/main/Lab9#Codigos)
-- [Resultados](https://github.com/Mezosky/Labs_PATOS/tree/main/Lab9#Resultados)
-- [Códigos utiles para la ejecución del Lab](https://github.com/Mezosky/Labs_PATOS/tree/main/Lab9#Códigos-útiles-para-la-ejecución-del-cluster-y-otros)
+- [Objetivos](https://github.com/Mezosky/proyecto_semestral_PATOS#Objetivos)
+- [Entregables](https://github.com/Mezosky/proyecto_semestral_PATOS#entregables)
+- [Códigos](https://github.com/Mezosky/proyecto_semestral_PATOS#Codigos)
+- [Resultados](https://github.com/Mezosky/proyecto_semestral_PATOS#Resultados)
+- [Códigos utiles para la ejecución del Lab](https://github.com/Mezosky/proyecto_semestral_PATOS#Códigos-útiles-para-la-ejecución-del-cluster-y-otros)
 
 
 ## Objetivos

@@ -47,6 +47,9 @@
 
 ## Codigos utiles para enviar archivos
 
+
+
+
 ssh -p 220 uhadoop@cm.dcc.uchile.cl
 PW: HADcc5212$oop
 

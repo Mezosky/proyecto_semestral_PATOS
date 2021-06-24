@@ -70,6 +70,25 @@ order_best = ORDER group_best_month_per_game BY total_count_month DESC ;
 DUMP order_best; 
 
 -- STORE rank_games_best_month_top10 INTO 'hdfs://cm:9000/uhadoop2021/g34/top_month/';
+(三国群英传8 Heroes of the Three Kingdoms 8,三国群英传8 Heroes of the Three Kingdoms 8,2021-01,8111,4677,3434,8111)
+
+(Phasmophobia,Phasmophobia,2020-09,5905,5792,113,219090)
+
+(PLAYERUNKNOWN'S BATTLEGROUNDS,PLAYERUNKNOWN'S 
+BATTLEGROUNDS,2019-09,5601,2705,2896,1644255)
+
+--(Grand Theft Auto V,Grand Theft Auto V,2015-09,3001,2530,471,1019116)
+--(Satisfactory,Satisfactory,2020-10,2702,2614,88,42449)
+--(Dead by Daylight,Dead by Daylight,2017-04,2258,1767,491,418897)
+--(DOOM Eternal,DOOM Eternal,2020-09,2175,2008,167,105196)
+--(DEATH STRANDING,DEATH STRANDING,2020-10,2096,1925,171,47781)
+--(Crusader Kings III,Crusader Kings III,2021-01,2016,1873,143,45151)
+--(NBA 2K21,NBA 2K21,2020-10,1889,691,1198,15735)
+--(Helltaker,Helltaker,2021-01,1860,1796,64,86306)
+--(Borderlands 3,Borderlands 3,2020-10,1809,1520,289,67080)
+--(Rust,Rust,2014-09,1606,1358,248,549074)
+--(Persona 4 Golden,Persona 4 Golden,2021-01,1596,1547,49,40180)
+--(Monster Hunter: World,Monster Hunter: World,2019-03,1566,1320,246,290946)
 
 ---------------------------------------------------------------
 

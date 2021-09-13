@@ -21,6 +21,7 @@
 - [X] Generar una consulta que nos permita obtener una lista con juegos controversiales.
 - [ ] Generar graficos que muestren la conducta que tienen los juegos controversiales.
 - [ ] Realizar otras consultas exploratorias del dataset
+- [X] Prueba de actualización de git.
 
 ## Metodología
 

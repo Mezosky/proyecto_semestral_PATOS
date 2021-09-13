@@ -18,7 +18,7 @@
 <img src="https://media1.tenor.com/images/dd0a30cba014e29bdac0c59c7a0cef45/tenor.gif?itemid=5684151" alt="goals" height="300">
 </p>
 
-- [ ] Generar una consulta que nos permita obtener una lista con juegos controversiales.
+- [X] Generar una consulta que nos permita obtener una lista con juegos controversiales.
 - [ ] Generar graficos que muestren la conducta que tienen los juegos controversiales.
 - [ ] Realizar otras consultas exploratorias del dataset
 
@@ -46,9 +46,6 @@
 |           Warhammer: Vermintide 2           |            61887            |
 
 ## Codigos utiles para enviar archivos
-
-
-
 
 ssh -p 220 uhadoop@cm.dcc.uchile.cl
 PW: HADcc5212$oop
